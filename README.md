@@ -42,9 +42,8 @@
 <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 
-###
-
 ---
+###
 
 <h3 align="left">Play games with me</h3>
 
@@ -61,8 +60,6 @@
 <img src="https://raw.githubusercontent.com/dandisabri/dandisabri/output/snake.svg" alt="Snake animation" />
 
 ###
-
----
 
 <h3 align="left">Recently Played song on Spotify</h3>
 
