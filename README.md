@@ -45,7 +45,7 @@
 ---
 ###
 
-<h3 align="left">Play games with me</h3>
+<h2 align="left">Play games with me</h2>
 
 ###
 
@@ -54,10 +54,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dandisabri/dandisabri/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dandisabri/dandisabri/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/dandisabri/dandisabri/output/snake.svg" alt="Snake animation" />
 
 ###
 ---
