@@ -2,11 +2,24 @@
 
 ### Hello I'm Dandi Sabri 👋
 
-###
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=dandisabri.dandisabri&"  />
+
+#
 
 ##### Connect with me
 
-![https://www.instagram.com/@dandisabri](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.threads.com/@dandisabri](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white) ![https://www.tiktok.com/@xmoonlake](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![https://www.x.com/@DandiSabri](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+<a href="https://www.instagram.com/dandisabri" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.threads.com/dandisabri" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads">
+</a>
+<a href="https://www.x.com/@DandiSabri" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+<a href="https://www.tiktok.com/@xmoonlake" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok">
+</a>
 
 ###
 
@@ -33,7 +46,7 @@
 
 ---
 
-<h2 align="left">Play games with me</h2>
+<h3 align="left">Play games with me</h3>
 
 ###
 
@@ -48,3 +61,13 @@
 <img src="https://raw.githubusercontent.com/dandisabri/dandisabri/output/snake.svg" alt="Snake animation" />
 
 ###
+
+---
+
+<h3 align="left">Recently Played song on Spotify</h3>
+
+<div align="left">
+  <a href="https://open.spotify.com/user/ejxvmdhvwi4lruruyajf1nsjn">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ejxvmdhvwi4lruruyajf1nsjn&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
