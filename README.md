@@ -57,6 +57,8 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/dandisabri/dandisabri/output/snake.svg" alt="Snake animation" />
+
 ###
 ---
 
